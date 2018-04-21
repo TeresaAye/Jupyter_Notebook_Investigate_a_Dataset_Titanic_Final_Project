@@ -1,5 +1,5 @@
 # Jupyter_Notebook_Investigate_a_Dataset_Titanic_Final_Project
-Final Project for Udacity Data Analyst Nanodegree Investigate a Dataset Module, using Numpy, Pandas, DataFrames, Python, Jupyter Notebook
+Final Project for Udacity Data Analyst Nanodegree Intro to Data Analysis Module, using Anaconda, Numpy, Pandas, DataFrames, Python, Jupyter Notebook
 
 I used Jupyter Notebook to do an analysis of the Titanic Data.
 
